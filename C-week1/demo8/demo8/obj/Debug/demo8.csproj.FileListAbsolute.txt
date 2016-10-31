@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\demo8\demo8\bin\Debug\demo8.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\demo8\demo8\bin\Debug\demo8.exe
+c:\users\vichas\documents\visual studio 2015\Projects\demo8\demo8\bin\Debug\demo8.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\demo8\demo8\obj\Debug\demo8.csprojResolveAssemblyReference.cache
+c:\users\vichas\documents\visual studio 2015\Projects\demo8\demo8\obj\Debug\demo8.exe
+c:\users\vichas\documents\visual studio 2015\Projects\demo8\demo8\obj\Debug\demo8.pdb

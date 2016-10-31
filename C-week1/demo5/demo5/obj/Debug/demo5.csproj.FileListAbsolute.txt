@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\demo5\demo5\bin\Debug\demo5.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\demo5\demo5\bin\Debug\demo5.exe
+c:\users\vichas\documents\visual studio 2015\Projects\demo5\demo5\bin\Debug\demo5.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\demo5\demo5\obj\Debug\demo5.csprojResolveAssemblyReference.cache
+c:\users\vichas\documents\visual studio 2015\Projects\demo5\demo5\obj\Debug\demo5.exe
+c:\users\vichas\documents\visual studio 2015\Projects\demo5\demo5\obj\Debug\demo5.pdb
