@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\demo3.1\demo3.1\bin\Debug\demo3.1.exe.config
+C:\Users\Vichas\Documents\Visual Studio 2015\Projects\demo3.1\demo3.1\bin\Debug\demo3.1.exe
+C:\Users\Vichas\Documents\Visual Studio 2015\Projects\demo3.1\demo3.1\bin\Debug\demo3.1.pdb
+C:\Users\Vichas\Documents\Visual Studio 2015\Projects\demo3.1\demo3.1\obj\Debug\demo3.1.csprojResolveAssemblyReference.cache
+C:\Users\Vichas\Documents\Visual Studio 2015\Projects\demo3.1\demo3.1\obj\Debug\demo3.1.exe
+C:\Users\Vichas\Documents\Visual Studio 2015\Projects\demo3.1\demo3.1\obj\Debug\demo3.1.pdb
