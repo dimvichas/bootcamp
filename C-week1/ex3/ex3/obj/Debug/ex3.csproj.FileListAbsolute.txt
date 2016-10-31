@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\ex3\ex3\bin\Debug\ex3.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\ex3\ex3\bin\Debug\ex3.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex3\ex3\bin\Debug\ex3.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\ex3\ex3\obj\Debug\ex3.csprojResolveAssemblyReference.cache
+c:\users\vichas\documents\visual studio 2015\Projects\ex3\ex3\obj\Debug\ex3.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex3\ex3\obj\Debug\ex3.pdb

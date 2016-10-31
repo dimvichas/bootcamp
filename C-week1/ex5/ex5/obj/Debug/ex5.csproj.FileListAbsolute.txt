@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\ex5\ex5\bin\Debug\ex5.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\ex5\ex5\bin\Debug\ex5.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex5\ex5\bin\Debug\ex5.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\ex5\ex5\obj\Debug\ex5.csprojResolveAssemblyReference.cache
+c:\users\vichas\documents\visual studio 2015\Projects\ex5\ex5\obj\Debug\ex5.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex5\ex5\obj\Debug\ex5.pdb
