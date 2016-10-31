@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\ex-mobile\ex-mobile\bin\Debug\ex-mobile.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\ex-mobile\ex-mobile\bin\Debug\ex-mobile.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex-mobile\ex-mobile\bin\Debug\ex-mobile.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\ex-mobile\ex-mobile\obj\Debug\ex-mobile.csprojResolveAssemblyReference.cache
+c:\users\vichas\documents\visual studio 2015\Projects\ex-mobile\ex-mobile\obj\Debug\ex-mobile.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex-mobile\ex-mobile\obj\Debug\ex-mobile.pdb

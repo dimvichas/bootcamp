@@ -1,0 +1,6 @@
+c:\users\vichas\documents\visual studio 2015\Projects\ex-fraction\ex-fraction\bin\Debug\ex-fraction.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\ex-fraction\ex-fraction\bin\Debug\ex-fraction.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex-fraction\ex-fraction\bin\Debug\ex-fraction.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\ex-fraction\ex-fraction\obj\Debug\ex-fraction.csprojResolveAssemblyReference.cache
+c:\users\vichas\documents\visual studio 2015\Projects\ex-fraction\ex-fraction\obj\Debug\ex-fraction.exe
+c:\users\vichas\documents\visual studio 2015\Projects\ex-fraction\ex-fraction\obj\Debug\ex-fraction.pdb

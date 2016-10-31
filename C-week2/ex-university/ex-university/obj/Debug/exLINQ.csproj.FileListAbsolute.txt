@@ -1,0 +1,5 @@
+c:\users\vichas\documents\visual studio 2015\Projects\exLINQ\exLINQ\bin\Debug\exLINQ.exe.config
+c:\users\vichas\documents\visual studio 2015\Projects\exLINQ\exLINQ\bin\Debug\exLINQ.exe
+c:\users\vichas\documents\visual studio 2015\Projects\exLINQ\exLINQ\bin\Debug\exLINQ.pdb
+c:\users\vichas\documents\visual studio 2015\Projects\exLINQ\exLINQ\obj\Debug\exLINQ.exe
+c:\users\vichas\documents\visual studio 2015\Projects\exLINQ\exLINQ\obj\Debug\exLINQ.pdb
